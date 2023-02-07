@@ -1,6 +1,6 @@
 # Handwriting-digit-recognition-using-SVM
 
-# [Project  7: Handwriting digit recognition using SVM]() 
+# [Project  7: Handwriting digit recognition using SVM](https://github.com/sbsahane12/Handwriting-digit-recognition-using-SVM.git) 
 ## Problem Statement
 As people have different handwriting it is difficult for a computer or any device to understand those handwritings of different people. The handwriting recognition is the ability of a computer or a device to take input handwriting in the form of an image such as picture of handwritten text which is fed to the pattern recognition algorithm or a model
 ## Steps :
